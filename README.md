@@ -16,6 +16,14 @@ TT Tools 是一个功能丰富的 ComfyUI 节点套件，提供专业的图像�
 - 🎬 **LUT调色**：支持.cube格式LUT文件，电影级调色效果
 - 🔒 **文件加密**：图片加密，让机密图片网络传输更安全
 
+## 相关应用推荐：
+- [无限丝滑首尾帧](https://www.runninghub.cn/ai-detail/1982706343595393026?inviteCode=r38a0xtg "丝滑首尾帧")
+- [无限丰满人物生成器身材可调](https://www.runninghub.cn/ai-detail/1985581742046294017?inviteCode=r38a0xtg "丰满人物生成")
+- [Red-Z-Image无限去网红感真实](https://www.runninghub.cn/ai-detail/1998241161020104705?inviteCode=r38a0xtg "Red-Z-Image去网红感真实")
+- [Wan2.2 remix无限视频生成](https://www.runninghub.cn/ai-detail/1987480177175408642/?inviteCode=r38a0xtg "Wan2.2 remix视频生成")
+- [一致性模特9种随机动作套图](https://www.runninghub.cn/ai-detail/1984238035988529153/?inviteCode=r38a0xtg "点击直达体验")
+- [Qwen Edit无限同人同景套图](https://www.runninghub.cn/ai-detail/1979231326798778370/?inviteCode=r38a0xtg "点击直达体验")
+- [真实抖动人物姿势](https://www.runninghub.cn/ai-detail/1994374401065881601/?inviteCode=r38a0xtg "点击直达体验")
 
 ## 🎨 图像处理节点详解
 
